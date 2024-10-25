@@ -19,7 +19,7 @@
   "unpkg": "dist/vuetify-contentful.min.js",
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vuetify": "^2.2.11"
   },
   "devDependencies": {
